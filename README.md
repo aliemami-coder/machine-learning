@@ -31,7 +31,7 @@ To get started, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/machine-learning-examples.git
+    git clone https://github.com/aliemami-coder/machine-learning-examples.git
     ```
 
 2. Navigate to the desired example directory (e.g., `classification`) and open the corresponding Jupyter notebook.
